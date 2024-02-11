@@ -310,7 +310,7 @@ body {
 }
 @media (max-width: 575.98px) {
   .sm-padding{
-    padding: 0px 10px !important;
+    padding: 0px 12px !important;
   }
   .navbar-toggler {
     padding: 0% !important;
